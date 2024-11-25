@@ -1,6 +1,19 @@
 # SkillExpo
-A Learning Management system  Suing Python ,Django
+A Learning Management system  uing Python ,Django
+
+Featues:
+Sign In ,Sign Up
+Create a course
+Join a Course
+Dashboard
+Contact Page 
+About Page
+Resources Uploading Features
+
+
 Home Page
+
+
 ![WhatsApp Image 2024-11-25 at 13 41 45_e307a07e](https://github.com/user-attachments/assets/b75572d0-7413-4d2c-b127-6a06fc38e7e3)
 
 
