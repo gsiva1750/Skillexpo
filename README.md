@@ -20,5 +20,6 @@ Home Page
 ![WhatsApp Image 2024-11-25 at 13 40 42_72beb4ae](https://github.com/user-attachments/assets/bfd3d908-4621-4c1e-91d1-0fa69fbeb6ba)
 
 
-![Uploading WhatsApp Image 2024-11-25 at 13.42.50_f1f6062e.jpg…]()
+![WhatsApp Image 2024-11-25 at 13 42 50_f1f6062e](https://github.com/user-attachments/assets/2fa37a49-2faa-4200-a346-edbbc9efaff4)
+
 
